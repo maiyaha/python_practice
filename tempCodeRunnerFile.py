@@ -1,2 +1,3 @@
-a1=random.randint(5,20,3)
-print(a1)
+a1=tuple()
+a2=()
+print(a1, a2, type(a1), type(a2))
