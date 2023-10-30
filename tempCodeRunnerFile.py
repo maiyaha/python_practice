@@ -1,3 +1,2 @@
-a1=tuple()
-a2=()
-print(a1, a2, type(a1), type(a2))
+c1, c2, c3 = 1, 2, 3
+print(c1, c2, c3)
